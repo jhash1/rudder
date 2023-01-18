@@ -1,0 +1,6 @@
+https://github.com/jedib0t/go-pretty for the output
+
+
+artifacthub.io/containsSecurityUpdates use this to justify updates instead of newer version
+
+
