@@ -1,5 +1,6 @@
 Helm Security Scanner
-A tool written in Go that scans Helm releases and finds security vulnerabilities.
+A tool written in Go that scans Helm releases and provides a security summary report from the Artifact Hub.
+
 
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -28,8 +29,4 @@ Where NAMESPACE is the namespace in which the release is installed, and RELEASE_
 
 For more information, see the usage documentation.
 
-Contributing
-We welcome contributions to the Helm Security Scanner. Please see the contributing guidelines for more information.
 
-License
-This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
